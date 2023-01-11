@@ -25,7 +25,6 @@ images: []
   - 𝔐𝔦𝔰𝔰 ℭ𝔬𝔯𝔯𝔲𝔭𝔱𝔦𝔬𝔫 [腐敗少女]
   - zarantha
 - FG's Modlists Discord Staff:
-  - Alabast
   - Aronax
   - Chanka
   - Deadbeat-Senpai
